@@ -1,0 +1,18 @@
+body{background-repeat:no-repeat ;font-family: 'Rajdhani', sans-serif !important;}
+.form{margin: 10% auto;border: 1px solid;min-height: 300px;width: 45%;padding: 3%;background-color: #fff;border-radius: 10px}
+.head{font-weight: 400;}
+.bottom h6{font-weight: 600}
+.bottom h6{font-size: 13px}
+form input{ border: 1px #000;border-style: none none solid none;background: none;outline: none;width: 100%}
+button{outline: none}
+.submit{width:100px;float: right;height: 30px;outline: none;border-color: #0067b8;background-color: #0067b8;color: #fff;text-decoration: underline;cursor: pointer;}
+h4{text-align: center;font-weight: bolder}
+.active{color:red}
+
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+
+
